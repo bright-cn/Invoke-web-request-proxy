@@ -411,9 +411,9 @@ Invoke-WebRequest -SkipCertificateCheck -Proxy "http://190.6.23.219:999" "https:
 
 这取决于你在使用 Invoke-WebRequest 时的目标。常见的几类代理如下：
 
-- [**数据中心代理（Datacenter proxies）**](https://www.bright.cn/proxy-types/datacenter-proxies)：速度快，价格相对便宜，但如果被识别可能容易被屏蔽。  
-- [**住宅代理（Residential proxies）**](https://www.bright.cn/proxy-types/residential-proxies)：提供真实设备的 IP 地址，会定期轮换，非常适合绕过地理位置限制或反爬虫策略。  
-- [**ISP 代理（ISP proxies）**](https://www.bright.cn/proxy-types/isp-proxies)：由运营商提供的静态 IP，速度快且高度可靠，适合用于 SEO、市场调研等需求。  
-- [**移动代理（Mobile proxies）**](https://www.bright.cn/proxy-types/mobile-proxies)：来自真实移动设备，适合针对移动端应用或网站的场景。
+- [**数据中心代理**](https://www.bright.cn/proxy-types/datacenter-proxies)：速度快，价格相对便宜，但如果被识别可能容易被屏蔽。  
+- [**住宅代理**](https://www.bright.cn/proxy-types/residential-proxies)：提供真实设备的 IP 地址，会定期轮换，非常适合绕过地理位置限制或反爬虫策略。  
+- [**ISP 代理**](https://www.bright.cn/proxy-types/isp-proxies)：由运营商提供的静态 IP，速度快且高度可靠，适合用于 SEO、市场调研等需求。  
+- [**移动代理**](https://www.bright.cn/proxy-types/mobile-proxies)：来自真实移动设备，适合针对移动端应用或网站的场景。
 
 更多详情可参阅我们的 [代理 IP 类型终极指南](https://www.bright.cn/blog/proxy-101/ultimate-guide-to-proxy-types)。
