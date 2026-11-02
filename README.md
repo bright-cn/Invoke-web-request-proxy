@@ -1,6 +1,6 @@
 # PowerShell Invoke-WebRequest 代理指南
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/proxy-types) 
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/proxy-types) 
 
 阅读完这篇 **Invoke-WebRequest PowerShell 代理指南**后，你将了解：
 
